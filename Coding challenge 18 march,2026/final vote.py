@@ -6,7 +6,7 @@ price = float(input("Enter the price of the product: "))
 # Taking input for the discount percentage
 discount = float(input("Enter the discount percentage: "))
 
-# Calculating the discount amount
+# Calculating the discount amountgit add .
 discount_amount = (price * discount) / 100
 
 # Calculating the final price after discount
